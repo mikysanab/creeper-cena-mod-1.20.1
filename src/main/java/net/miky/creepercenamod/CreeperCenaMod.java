@@ -10,5 +10,6 @@ public class CreeperCenaMod implements ModInitializer {
 	public void onInitialize() {
 		//test
 		//test
+		//test
 	}
 }
