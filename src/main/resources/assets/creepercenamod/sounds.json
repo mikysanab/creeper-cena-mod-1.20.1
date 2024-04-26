@@ -1,0 +1,14 @@
+{
+  "creeper_cena_explosion": {
+    "subtitle": "sounds.creepercenamod.creeper_cena_explosion",
+    "sounds": [
+      "creepercenamod:creeper_cena_explosion"
+    ]
+  },
+  "creeper_cena_fuse": {
+    "subtitle": "sounds.creepercenamod.creeper_cena_fuse",
+    "sounds": [
+      "creepercenamod:creeper_cena_fuse"
+    ]
+  }
+}
